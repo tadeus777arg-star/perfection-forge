@@ -1,0 +1,17 @@
+{
+	id: "034783f3-fbfc-3708-91b0-59525927d190"
+	type: "player"
+	player_name: "chocolinpy"
+	ranks: {
+		034783f3-fbfc-3708-91b0-59525927d190: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "chocolinpy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#8BFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

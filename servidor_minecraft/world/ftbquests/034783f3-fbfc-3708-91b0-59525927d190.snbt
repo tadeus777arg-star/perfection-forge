@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "034783f3fbfc370891b059525927d190"
+	name: "chocolinpy#034783f3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

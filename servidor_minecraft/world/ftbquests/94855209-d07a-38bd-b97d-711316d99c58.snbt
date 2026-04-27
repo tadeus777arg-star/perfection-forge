@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "94855209d07a38bdb97d711316d99c58"
+	name: "Fachichi#94855209"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

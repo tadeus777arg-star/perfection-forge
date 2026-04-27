@@ -1,0 +1,17 @@
+{
+	id: "94855209-d07a-38bd-b97d-711316d99c58"
+	type: "player"
+	player_name: "Fachichi"
+	ranks: {
+		94855209-d07a-38bd-b97d-711316d99c58: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Fachichi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59AFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
